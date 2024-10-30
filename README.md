@@ -6,6 +6,7 @@ It includes tools for networking, system information, and security tasks, tailor
 
 ![2024-10-30_19-53](https://github.com/user-attachments/assets/3537fd93-c9cc-43f8-9fe7-a8d6e3933d4e)
 
+![2024-10-30_19-58](https://github.com/user-attachments/assets/25520e68-f6b3-430e-866c-875d9c37fc45)
 
 
 ## Features
@@ -18,17 +19,25 @@ It includes tools for networking, system information, and security tasks, tailor
    - Open Port Check.
    - Sniff Network Traffic.
 
+![2024-10-30_20-00](https://github.com/user-attachments/assets/eea93342-c5da-49eb-aa54-615cc3a7e2bb)
+
+
 4. **System Tools**:
    - System Information with inxi.
    - Glances System Monitor.
    - Check for rootkits.
    - Audit System.
 
+![2024-10-30_20-02](https://github.com/user-attachments/assets/efa1f48c-f74f-4620-8bcd-cb00cf30a928)
+
+
 5. **Security Tools**:
    - Password Brute-Force Attack with Hydra.
    - Enable TOR network.
    - Change MacAddress.
    - Target Scan with Nikto.
+
+![2024-10-30_20-04](https://github.com/user-attachments/assets/54f603b4-a1c7-4993-9d87-b9df634daaf4)
 
 ## Requirements
 
