@@ -4,6 +4,10 @@ This is a bash script designed to assist with basic pentesting and system admini
 Currently the script supports **Debian/Ubuntu**, **Arch Linux**, and **Fedora**.
 It includes tools for networking, system information, and security tasks, tailored based on the selected OS.
 
+![2024-10-30_19-53](https://github.com/user-attachments/assets/3537fd93-c9cc-43f8-9fe7-a8d6e3933d4e)
+
+
+
 ## Features
 
 1. **OS Detection**: Select your OS at the start of the script.
